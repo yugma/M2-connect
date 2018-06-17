@@ -1,0 +1,31 @@
+.m2connect-card1{
+    width: 80%;
+    text-align: center;
+    margin: 25px auto 25px auto;
+}
+
+.m2connect-card2{
+    width: 80%;
+    text-align: center;
+    margin: 25px auto 25px auto;
+}
+
+.m2connect-card3{
+    width: 80%;
+    text-align: center;
+    margin: 25px auto 25px auto;
+}
+
+.m2connect-card4{
+    width: 50%;
+    text-align: center;
+    margin: 25px auto 25px auto;
+}
+
+table {
+    width: 90%;
+}
+
+th.mat-header-cell{
+    text-align: center;
+}
